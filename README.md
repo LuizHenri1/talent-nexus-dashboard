@@ -37,15 +37,7 @@ O **Talent Nexus Global** foi desenvolvido para transformar dados brutos de comp
 ## 🛠️ Tecnologias Utilizadas
 
 * **Ferramenta de BI:** Power BI
-* **Linguagens:** DAX / SQL (ajuste conforme o que você usou)
+* **Linguagens:** DAX 
 * **Design:** UI/UX Dark Theme customizado
-
----
-
-## 👨‍💻 Como Visualizar
-
-1. Faça o download do arquivo `.pbix` (se disponível no repo).
-2. [Opcional] Acesse o link do relatório online: `[COLOQUE SEU LINK AQUI]`
-
 ---
 Developed by [Seu Nome] 🚀
