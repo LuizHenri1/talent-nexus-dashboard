@@ -10,7 +10,6 @@ Este projeto apresenta uma análise interativa do mercado global de tecnologia, 
 ## 🖼️ Preview do Dashboard
 <img width="1274" height="716" alt="Captura de tela 2026-03-13 003134" src="https://github.com/user-attachments/assets/191dd6ac-e986-48c5-9910-9fb30f31af12" />
 
----
 
 ## 🚀 Sobre o Projeto
 
