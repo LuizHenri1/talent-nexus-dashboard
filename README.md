@@ -40,4 +40,6 @@ O **Talent Nexus Global** foi desenvolvido para transformar dados brutos de comp
 * **Linguagens:** DAX 
 * **Design:** UI/UX Dark Theme customizado
 ---
-                                                                                       Developed by Luiz Henrique 🚀
+<p align="center">
+  Developed by <b>Luiz Henrique</b> 🚀
+</p>
