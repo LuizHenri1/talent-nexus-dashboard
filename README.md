@@ -17,7 +17,7 @@ O **Talent Nexus Global** foi desenvolvido para transformar dados brutos de comp
 
 ### 🎯 Objetivos Principais:
 * **Benchmarking Salarial:** Identificar as funções mais valorizadas no setor de dados.
-* **Análise Geográfica:** Focar em mercados estratégicos, como Canadá e EUA.
+* **Análise Geográfica:** Focar em mercados estratégicos, como Canadá e Estados Unidos.
 * **Tendências de Mercado:** Acompanhar a variação salarial anual e modelos de trabalho (Remoto/Híbrido/Presencial).
 
 ---
