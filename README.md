@@ -1,2 +1,54 @@
 # talent-nexus-dashboard
 Talent Nexus: Dashboard interativo de análise salarial tech (2020-2026). Focado em cargos de IA, Machine Learning e Ciência de Dados. Oferece insights sobre compensação global, tendências geográficas e modelos de trabalho. Criado com foco em UI/UX para suporte a decisões de carreira e recrutamento.
+
+
+
+# Talent Nexus Global: Tech Salary Insights 📊
+
+Este projeto apresenta uma análise interativa do mercado global de tecnologia, focada em cargos de alta demanda como **Engenharia de IA, Machine Learning e Ciência de Dados**, cobrindo tendências de 2020 a 2026.
+
+## 🖼️ Preview do Dashboard
+
+![Capa do Dashboard](./nome-da-sua-imagem.png)
+*Visual moderno com foco em UI/UX para facilitar a leitura de KPIs críticos.*
+
+---
+
+## 🚀 Sobre o Projeto
+
+O **Talent Nexus Global** foi desenvolvido para transformar dados brutos de compensação em insights estratégicos. Ele permite que profissionais de dados e recrutadores comparem médias salariais por região, tamanho de empresa e evolução temporal.
+
+### 🎯 Objetivos Principais:
+* **Benchmarking Salarial:** Identificar as funções mais valorizadas no setor de dados.
+* **Análise Geográfica:** Focar em mercados estratégicos, como Canadá e EUA.
+* **Tendências de Mercado:** Acompanhar a variação salarial anual e modelos de trabalho (Remoto/Híbrido/Presencial).
+
+---
+
+## 📈 Insights Extraídos
+
+| Cargo | Média Salarial (Est.) |
+| :--- | :--- |
+| **AI Engineer** | 139,95 Mil |
+| **Machine Learning Engineer** | 139,71 Mil |
+| **Data Scientist** | 99,65 Mil |
+
+> **Nota:** O dashboard destaca que o Canadá apresenta uma média salarial altamente competitiva para profissionais de dados, sendo um hub atrativo para talentos globais.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Ferramenta de BI:** Power BI
+* **Linguagens:** DAX / SQL (ajuste conforme o que você usou)
+* **Design:** UI/UX Dark Theme customizado
+
+---
+
+## 👨‍💻 Como Visualizar
+
+1. Faça o download do arquivo `.pbix` (se disponível no repo).
+2. [Opcional] Acesse o link do relatório online: `[COLOQUE SEU LINK AQUI]`
+
+---
+Developed by [Seu Nome] 🚀
