@@ -30,8 +30,6 @@ O **Talent Nexus Global** foi desenvolvido para transformar dados brutos de comp
 | **Machine Learning Engineer** | 139,71 Mil |
 | **Data Scientist** | 99,65 Mil |
 
-> **Nota:** O dashboard destaca que o Canadá apresenta uma média salarial altamente competitiva para profissionais de dados, sendo um hub atrativo para talentos globais.
-
 ---
 
 ## Tecnologias Utilizadas
